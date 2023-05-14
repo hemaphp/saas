@@ -1,1 +1,11 @@
-
+{
+    "name": "hemaphp/saas",
+    "description": "saas",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "hemaphp",
+            "email": "hemaphp@qq.com"
+        }
+    ]
+}
